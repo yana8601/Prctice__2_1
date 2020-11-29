@@ -1,0 +1,7 @@
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\bin\Debug\Prctice__2_1.exe.config
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\bin\Debug\Prctice__2_1.exe
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\bin\Debug\Prctice__2_1.pdb
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\obj\Debug\Prctice__2_1.csprojAssemblyReference.cache
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\obj\Debug\Prctice__2_1.csproj.CoreCompileInputs.cache
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\obj\Debug\Prctice__2_1.exe
+E:\A-level\Practice_2_1;\Prctice__2_1\Prctice__2_1\obj\Debug\Prctice__2_1.pdb
